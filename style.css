@@ -31,6 +31,7 @@ body{
 }
 
 @keyframes float{
+  /* NOTE IF YOU SEE THIS LATER THEY STOLE IF FROM ME MICK */
   0%{ opacity: 1; transform: translateY(0px);}
   100%{ opacity: 0; transform: translateY(-50px);}
 }
